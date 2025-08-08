@@ -1,1 +1,1 @@
-# A2A
+# Project based on Google's A2A (Agent to Agent) protocol
